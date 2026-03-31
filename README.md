@@ -1,8 +1,11 @@
+Real Devops Podcasts
 Realtime projects
 Linux
+Networking Fundamentals
 AWS
 Azure
 GCP
+Devops Engineer
 Devops
 Devsecops
 AI assisted devops
@@ -19,3 +22,4 @@ Jenkins
 CICD
 GitOps and ArgoCD
 Observability
+Members only
